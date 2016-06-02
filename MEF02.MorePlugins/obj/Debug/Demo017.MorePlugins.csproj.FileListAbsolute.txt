@@ -1,0 +1,19 @@
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.dll
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.dll
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.dll
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.MorePlugins.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\Demo017.Contracts.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.csprojResolveAssemblyReference.cache
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\Demo017.MorePlugins.pdb

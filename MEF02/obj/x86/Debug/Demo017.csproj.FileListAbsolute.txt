@@ -1,0 +1,25 @@
+C:\Users\P21970\Desktop\Demo017\Demo017\bin\Debug\Demo017.exe.config
+C:\Users\P21970\Desktop\Demo017\Demo017\bin\Debug\Demo017.exe
+C:\Users\P21970\Desktop\Demo017\Demo017\bin\Debug\Demo017.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017\bin\Debug\Demo017.Contracts.dll
+C:\Users\P21970\Desktop\Demo017\Demo017\bin\Debug\Demo017.Contracts.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017\obj\x86\Debug\Demo017.exe
+C:\Users\P21970\Desktop\Demo017\Demo017\obj\x86\Debug\Demo017.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\bin\Debug\Demo017.exe.config
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\obj\x86\Debug\Demo017.exe
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\obj\x86\Debug\Demo017.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\bin\Debug\Demo017.exe
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\bin\Debug\Demo017.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\bin\Debug\Demo017.Contracts.dll
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\bin\Debug\Demo017.Contracts.pdb
+C:\Users\P21970\Desktop\Examples\Demo017\Demo017\obj\x86\Debug\Demo017.csprojResolveAssemblyReference.cache
+C:\Aktarım\AOP MEF\Demo017\Demo017\bin\Debug\Demo017.exe.config
+C:\Aktarım\AOP MEF\Demo017\Demo017\obj\x86\Debug\Demo017.exe
+C:\Aktarım\AOP MEF\Demo017\Demo017\obj\x86\Debug\Demo017.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017\bin\Debug\Demo017.exe
+C:\Aktarım\AOP MEF\Demo017\Demo017\bin\Debug\Demo017.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017\bin\Debug\Demo017.Contracts.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017\bin\Debug\Demo017.Contracts.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017\obj\x86\Debug\Demo017.csprojResolveAssemblyReference.cache
+C:\Aktarım\AOP MEF\Demo017\Demo017\obj\x86\Debug\Demo017.MenuSystem.resources
+C:\Aktarım\AOP MEF\Demo017\Demo017\obj\x86\Debug\Demo017.csproj.GenerateResource.Cache

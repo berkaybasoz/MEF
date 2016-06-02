@@ -1,0 +1,7 @@
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\MEF02.MorePlugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\MEF02.MorePlugins.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\MEF02.Contracts.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\bin\Debug\MEF02.Contracts.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\MEF02.MorePlugins.csprojResolveAssemblyReference.cache
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\MEF02.MorePlugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.MorePlugins\obj\Debug\MEF02.MorePlugins.pdb

@@ -1,0 +1,14 @@
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\bin\Debug\Demo017.Plugins.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\bin\Debug\Demo017.Plugins.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\bin\Debug\Demo017.Contracts.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\bin\Debug\Demo017.Contracts.pdb
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.dll
+C:\Users\P21970\Desktop\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\bin\Debug\Demo017.Plugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\bin\Debug\Demo017.Plugins.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\bin\Debug\Demo017.Contracts.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\bin\Debug\Demo017.Contracts.pdb
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.csprojResolveAssemblyReference.cache
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.dll
+C:\Aktarım\AOP MEF\Demo017\Demo017.Plugins\obj\Debug\Demo017.Plugins.pdb
